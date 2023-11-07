@@ -3,9 +3,8 @@
 
 <hr />
 
-### @ Contact Information
-<a href="https://www.linkedin.com/in/arengifoc/](https://www.linkedin.com/in/edwin-enrique-flores-bautista/">Find me on LinkedIn
-  <img align="left" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank" />
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/edwin-enrique-flores-bautista/">Find me on LinkedIn<img align="left" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank" />
 </a>
 <br /><br />
 <a href="mailto:eflores.unmsm.fisi@gmail.com">Send me an e-mail
