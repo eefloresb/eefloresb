@@ -3,19 +3,18 @@
 
 <hr />
 
-### 📫 How to reach me:
+### 📫 How to contact me:
 <a href="https://www.linkedin.com/in/edwin-enrique-flores-bautista/">Find me on LinkedIn<img align="left" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank" />
 </a>
 <br /><br />
 <a href="mailto:eflores.unmsm.fisi@gmail.com">Send me an e-mail
   <img align="left" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" />
 </a>
-
 <br/>
 
 ### 🚀 About Me
 💻 I’m an IT Professional with experience since 2001. </br> </br>
-👨‍💼 Currently, I perform as a **DevOps Engineer** and **SRE**. </br> </br>    
+👨‍💼 Currently, I perform as a **DevOps Engineer** and **Linux System Administrador**. </br> </br>    
 <br/>
 <hr />
 
@@ -38,7 +37,7 @@
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">                                                     
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">                                                     
 </div>
 
