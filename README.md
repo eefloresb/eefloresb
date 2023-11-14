@@ -1,23 +1,19 @@
 ### Hi there 👋
-### I'm Enrique. Welcome to my Github site. 🌱
-
-<hr />
-
-### 📫 How to contact me:
-<a href="https://www.linkedin.com/in/edwin-enrique-flores-bautista/">Find me on LinkedIn<img align="left" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank" />
-</a>
-<br /><br />
-<a href="mailto:eflores.unmsm.fisi@gmail.com">Send me an e-mail
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" />
-</a>
-<br/>
-
+I'm Enrique. Welcome to my Github Professional site. 🌱
 ### 🚀 About Me
 💻 I’m an IT Professional with experience since 2001. </br> </br>
-👨‍💼 Currently, I perform as a **DevOps Engineer** and **Linux System Administrador**. </br> </br>    
-<br/>
-<hr />
+👨‍💼 Currently, I perform as a **DevOps Engineer** and **Linux System Administrador**. </br> </br>
+**Public Notice**
+**Date:** __14/11/23__
+<br >
+*Dear Community*, For organizational reasons, I have moved my master projects to my account [2000923](https://github.com/2000923),
+which is my [university ID](www.unmsm.edu.pe). Thanks to [Microsoft](https://www.microsoft.com/es-es), I was granted student status to develop projects for the benefit of my community.
+Projects from the main branch of my previous work will remain on this profile since they are still in use.
+Sincerely
 
+[Enrique](https://www.linkedin.com/in/edwin-enrique-flores-bautista)
+<hr />
+<br >
 <div align="center">
   <a href="https://github.com/eefloresb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eefloresb&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
@@ -25,7 +21,7 @@
 </div>
 
 ## ⚡ Technologies I'm familiar with
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linux-tux.svg">
   <img align="center" alt="Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
@@ -40,18 +36,3 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">                                                     
 </div>
-
-<!--
-**eefloresb/eefloresb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
